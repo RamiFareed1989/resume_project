@@ -1,3 +1,4 @@
 # My online CV
 
-![Alt text](assets/images/readme_pic.png "readme_pic.png)
+<img src="assets/images/readme.png" style="margin: 0; width: 100%; height: 100%;">
+
